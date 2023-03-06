@@ -1,0 +1,20 @@
+{
+    "Python Modelling" : ["pyspark", "time", "json", "tensorflow_probability", "findspark", "skimage", "tf", "utils", "Counter", "add", "statement", "tempfile", "all", "StructField", "base64", "React", "transformers", "Path", "Process", "shuffle", "into"],
+    "Python Data Structures" : ["functions", "backend", "Dense", "Model", "layers", "__future__", "Image", "google", "reduce", "types", "kafka", "array", "data", "models", "image", "when", "partial", "pyarrow", "airflow", "typing", "ops", "pprint", "threading", "xml", "dask", "Callback", "oauth2client", "optimizers", "warnings", "defaultdict", "them", "flask", "py4j", "setuptools", "error", "Sequence", "debug", "setup", "date", "grpc", "metrics", "session"],
+    "Java" : ["java.util.*", "java.io.*"],
+    "Python Deep Learning" : ["keras", "sklearn", "datetime", "cv2", "random", "functools", "PIL", "itertools", "torch", "scipy", "collections", "io", "logging", "operator", "glob", "math", "subprocess", "pickle", "csv", "tflearn", "datasets", "requests", "multiprocessing", "tqdm", "argparse", "pathlib", "nltk", "IPython", "urllib", "h5py", "string", "boto3", "copy", "shutil", "StringIO", "six", "timeit", "networkx", "gc", "zipfile"],
+    "Kafka" : ["org.apache.kafka.clients.consumer.ConsumerConfig", "org.apache.kafka.clients.consumer.ConsumerRecord"],
+    "Java Data Structures" : ["java.io.IOException", "java.util.List", "java.util.ArrayList", "java.util.Map", "java.util.Arrays", "java.util.Properties", "java.util.HashMap", "java.util.Collections"],
+    "Web Platforms" : ["org.apache.flink.streaming.api.environment.StreamExecutionEnvironment", "java.io.Serializable", "react-ga", "@angular/core", "@tensorflow/tfjs", "react", "spark", "Window", "java", "static", "lit", "Pipeline", "\\", "split", "Layer", "from_json"],
+    "R" : ["dplyr", "tidyverse"],
+    "Spark Graphing" : ["graphframes", "PCA", "rnn"],
+    "Hadoop MapReduce" : ["org.apache.hadoop.io.Text", "org.apache.hadoop.mapreduce.Job", "org.apache.hadoop.mapreduce.Mapper", "org.apache.hadoop.io.IntWritable", "org.apache.hadoop.mapreduce.lib.input.FileInputFormat", "org.apache.hadoop.mapreduce.Reducer", "org.apache.hadoop.io.LongWritable"],
+    "Spark" : ["org.apache.spark.SparkConf", "org.apache.spark.api.java.JavaSparkContext", "org.apache.spark.api.java.JavaRDD", "scala.Tuple2"],
+    "Syntax Errors": ["the", "it", "a", "to", "and", "from", "is", "in", "of", "this", "that", "statements", "name"],
+    "TensorFlow Vision": ["visualization_utils", "label_map_util"],
+    "Spark Data Structures": ["org.apache.spark.sql.SparkSession", "org.apache.spark.sql.Row", "org.apache.spark.sql.Dataset", "org.apache.spark.sql.types.DataTypes", "org.apache.spark.sql.types.StructField", "org.apache.spark.sql.types.StructType"],
+    "TensorFlow": ["tensorflow_datasets", "tensorflow_hub", "input_data", "object_detection", "mnist", "tensorboard", "tensorflow_transform", "preprocessing", "apache_beam"],
+    "Hadoop Configuration": ["org.apache.hadoop.conf.Configuration", "org.apache.hadoop.fs.Path", "org.apache.hadoop.fs.FileSystem", "org.apache.hadoop.mapreduce.lib.output.FileOutputFormat"],
+    "Scala": ["scala"],
+    "Python Data Structures and Graphing": ["tensorflow", "numpy", "pandas", "matplotlib", "os", "sys", "re", "seaborn"]
+}
